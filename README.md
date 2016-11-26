@@ -1,6 +1,6 @@
 # Abhishek's Arduino Gists
 Contains easy to navivate list of other snippets and projects.
-## View on http://abhishekghosh.github.io/Arduino-Gists-By-Abhishek-Ghosh/
+## View - [Arduino Gists](http://abhishekghosh.github.io/Arduino-Gists-By-Abhishek-Ghosh/)
 
 All Snippets & Repo Around Arduino Created by Abhishek Ghosh :
 
